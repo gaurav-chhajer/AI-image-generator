@@ -1,0 +1,11 @@
+{
+    "prompt": "A futuristic city at sunset, highly detailed, oil painting style, van gogh, thick brushstrokes, impressionism",
+    "timestamp": "20251119_002611",
+    "parameters": {
+        "steps": 50,
+        "guidance": 7.5,
+        "style_preset": "Artistic (Van Gogh)"
+    },
+    "model": "Stable Diffusion v1.5",
+    "device": "cuda"
+}

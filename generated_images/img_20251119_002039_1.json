@@ -1,0 +1,11 @@
+{
+    "prompt": "A futuristic city at sunset, highly detailed",
+    "timestamp": "20251119_002039",
+    "parameters": {
+        "steps": 50,
+        "guidance": 7.5,
+        "style_preset": "None"
+    },
+    "model": "Stable Diffusion v1.5",
+    "device": "cuda"
+}

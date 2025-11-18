@@ -1,0 +1,11 @@
+{
+    "prompt": "A futuristic city at sunset, highly detailed, studio ghibli style, cel-shaded, clean lines, vibrant colors, anime art",
+    "timestamp": "20251119_002128",
+    "parameters": {
+        "steps": 50,
+        "guidance": 7.5,
+        "style_preset": "Cartoon/Anime"
+    },
+    "model": "Stable Diffusion v1.5",
+    "device": "cuda"
+}
